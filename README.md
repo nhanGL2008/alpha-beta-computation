@@ -1,4 +1,6 @@
 
-<h1> Alpha - Beta Computational Application </h1>
+<h1> Alpha - Beta Event Planner </h1>
+
+
 
 
